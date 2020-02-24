@@ -1,0 +1,5 @@
+{
+  "watch": ["dist/src/**/*.py"], 
+  "ext": "py", 
+  "exec": "pipenv run python dist/src/main.py dist/src/excel/011_納品書_タテ型.xlsx"
+}

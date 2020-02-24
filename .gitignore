@@ -1,0 +1,11 @@
+node_modules/
+dist/python/
+dist/poppler-0.68.0/
+__pycache__
+.vscode/
+
+.jupyter/
+electron-starter/
+
+Pipfile.lock
+yarn.lock
